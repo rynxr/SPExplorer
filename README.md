@@ -47,5 +47,5 @@ make && make test
 1. Only support single file at one time.
 2. If the file has types defined seperately, user has to copy the definition to this file to let the tool move forware.
 
-jlrao<ary.xsnow@gmail.com>
+jlrao <ary.xsnow@gmail.com>
 

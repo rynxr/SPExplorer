@@ -36,7 +36,7 @@ cd cil
 make
 ```
 
-2. Build SPExplorer
+2. Build and Test SPExplorer
 ```
 cd <your_SPExplorer_cloned_client>
 make && make test

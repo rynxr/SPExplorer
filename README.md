@@ -49,3 +49,7 @@ make && make test
 
 jlrao <ary.xsnow@gmail.com>
 
+### Links
+
+1. CIL: https://github.com/cil-project/cil
+2. CPI: https://dslab.epfl.ch/pubs/cpi.pdf

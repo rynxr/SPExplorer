@@ -1,0 +1,9 @@
+./arce tests/arce.c
+Direct Code Pointer: name=fg loc=arce.c:5
+Indirect Code Pointer: name=pfg loc=arce.c:6
+Indirect Code Pointer: name=pfg2 loc=arce.c:7
+Indirect Code Pointer: name=fg3 loc=arce.c:8
+Indirect Code Pointer: name=fg4 loc=arce.c:9
+void pointer: name=pvoid0 loc=arce.c:10
+void pointer: name=pvoid1 loc=arce.c:11
+Direct Code Pointer: name=f1 loc=arce.c:14
